@@ -1,0 +1,21 @@
+.send-icon {
+    background-color: orange;
+    width: 50%;
+    display: inline-block;
+    justify-content: space-between;
+
+}
+
+.upload-icon {
+    background-color: lightgreen;
+    width: 50%;
+    display: inline-block;
+
+}
+
+.text {
+    padding: 8px;
+    left: 50%;
+    right: 50%;
+    width: 100%
+}

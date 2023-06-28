@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.header-text{
+padding:15px;
+background-color:white;
+width:1400px;
+margin-top: 0px;
+margin-bottom: 5px;
+
+}

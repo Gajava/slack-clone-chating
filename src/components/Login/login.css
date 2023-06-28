@@ -1,0 +1,17 @@
+.grid-form {
+    padding: 1rem;
+    height: 100vh;
+    background-color: #eee;
+  
+
+}
+.image {
+    margin-bottom: 10px;
+}
+.login{
+   padding-left: 195px;
+}
+.login-button{
+    background-color:blue;
+  
+}

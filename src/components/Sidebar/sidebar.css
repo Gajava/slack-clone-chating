@@ -1,0 +1,41 @@
+.sidebar{
+    left: 0px;
+    background-color: maroon;
+    width: 400px;
+    height: 1235px;
+    position: absolute;
+    right: 0px;
+   
+       
+      
+}
+
+.hello{
+    position: absolute;
+    float: right;
+    width: 1010px; 
+    left:400px;
+    background-color:white;
+    height:80px;
+    border-style: solid;
+  border-color:white;
+ top:20px;
+padding: 10px;
+}
+/* .footer{
+
+position: absolute;
+float: right;
+width: 1300px;
+left: 400px;
+top:950px;
+border-style: solid;
+border-color:black;
+margin-bottom:70px;
+
+} */
+/* 
+.sidebar1{
+    background-color: rgb(246, 233, 233);
+    height: 100vh;
+} */

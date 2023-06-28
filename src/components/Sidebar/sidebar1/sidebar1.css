@@ -1,0 +1,59 @@
+.sidebar1 {
+    background-color:whitesmoke;
+ width:1400px;
+height:850px;
+ border-radius:5px;
+ overflow: auto;
+ padding-top: 10px;
+margin-top: 40px;
+margin-bottom:95px; 
+padding: 10px;
+box-sizing: content-box;
+overflow:scroll;
+scroll-behavior:smooth;
+  
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.message-photo {
+    width:2px;
+    height:10px;
+    background-color: red;
+    margin-right:10px;
+    vertical-align:top;
+}
+
+
+.msg{
+    display: flex;
+    flex-direction: column;
+   
+}
+.user{
+   margin-bottom: 5px;
+}
+.time{
+   
+    margin-bottom: 5px;
+}
+.content{
+    background-color: gainsboro;
+    overflow-y: scroll;
+}

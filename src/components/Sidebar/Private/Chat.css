@@ -1,0 +1,16 @@
+.dot{
+    width:10px;
+    height:10px;
+    border-radius:50%;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color:red;
+}
+.private-chat{
+    font-size: 20px;
+      line-height: 26pt;
+  
+}
